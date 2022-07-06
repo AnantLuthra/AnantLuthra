@@ -1,11 +1,11 @@
 # Hi there 👋 I'm Anant Luthra
 
-I love to code in python, and learning new things daily. Tech Enthusiast, I love to explore new technologies and build amazing projects.
+A 17 years old boy from India, a tech enthusiast who loves to code in python, and learning new things daily & explore new technologies and build amazing projects
 
 - 🔭 I’m currently doing [100daysofcode](https://twitter.com/anant_luthra_/status/1531500725238472705)
 - 🌱 I’m currently learning C
 - 😄 Loves to hangout with people.
-- 📫 Connect with me on [Twitter].(https://twitter.com/anant_luthra_)
+- 📫 Connect with me on [Twitter](https://twitter.com/anant_luthra_)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm in 11'th grade.
 - 🌱 Looking for opportunities.
