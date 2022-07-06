@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Anant Luthra
+# Hi there 👋 I'm Anant Luthra
 
 
 - 🔭 I’m currently doing [100daysofcode](https://twitter.com/anant_luthra_/status/1531500725238472705)
