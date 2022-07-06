@@ -24,4 +24,4 @@ I love to code in python, and learning new things daily. Tech Enthusiast, I love
 
 - [100daysofcode](https://github.com/AnantLuthra/100daysofcode)
 - [Learning Tkinter](https://github.com/AnantLuthra/Tkinter-learning)
-- I also have python learning repository but that's not showable here 😅 it's too messed up, shitty stuff inside. 😂
+- I also have python learning repository but that's not showable here 😅 it's too messed up, shitty stuff inside, 😂
