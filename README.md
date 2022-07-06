@@ -9,7 +9,7 @@ A 17 years old boy from India, a tech enthusiast who loves to code in python, an
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm in 11'th grade.
 - 🌱 Looking for opportunities.
-
+- ⚡ Interests: Like to play football, programming, Like doing yoga.
 
 #### Some of my projects 👇
 - [Health care notifier system](https://github.com/AnantLuthra/Health-Care-Notifier-System)🏃
