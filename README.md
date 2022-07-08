@@ -26,9 +26,9 @@ A 17 years old boy from India, a tech enthusiast who loves to code in python, an
 - [Learning Tkinter](https://github.com/AnantLuthra/Tkinter-learning)
 - I also have python learning repository but that's not showable here 😅 it's too messed up, shitty stuff inside, 😂
 
+---
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=anantluthra&layout=compact&theme=chartreuse-dark)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=anantluthra)
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=anantluthra&theme=highcontrast&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=anantluthra&theme=chartreuse-dark&show_icons=true&count_private=true)
 
 ![](https://komarev.com/ghpvc/?username=anantluthra)
