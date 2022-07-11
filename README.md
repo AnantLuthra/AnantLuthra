@@ -16,7 +16,7 @@ A 17 years old boy from India, a tech enthusiast who loves to code in python, an
 - [CLI Music player made in python](https://github.com/AnantLuthra/cli-music-player)🎶
 - [Voice Wikipedia Search GUI made in python](https://github.com/AnantLuthra/wikipedia_searcher)🔊
 - [Music player desktop software](https://github.com/AnantLuthra/Tkinter-projects/tree/master/Music%20player)🎶
-- [Markdown to PDF Converter](https://github.com/AnantLuthra/Md-to-pdf)
+- [Markdown to PDF Converter](https://github.com/AnantLuthra/Md-to-pdf) (In progress)
 - [Desktop AI system](https://github.com/AnantLuthra/A.I.-Assistant)👨‍💻
 - [Calculator GUI made with python](https://github.com/AnantLuthra/Tkinter-projects/tree/master/Calculator%20GUI)🧭
 
