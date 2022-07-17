@@ -7,7 +7,7 @@ A 17 years old boy from India, a tech enthusiast who loves to code in python, an
 - 😄 Loves to hangout with people.
 - 📫 Connect with me on [Twitter](https://twitter.com/anant_luthra_)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm in 11'th grade.
+- ⚡ Fun fact: I'm just 17.
 - 🌱 Looking for opportunities.
 - ⚡ Interests: Like to play football, programming, Like doing yoga.
 
