@@ -1,15 +1,14 @@
 # Hi there 👋 I'm Anant Luthra
 
-A 17 years old boy from India, a tech enthusiast who loves to code in python, and learning new things daily & explore new technologies and build amazing projects
+A 18 years old boy from India, a tech enthusiast who loves to code in python, and learning new things daily & explore new technologies and build amazing projects.
 
-- 🔭 I’m currently doing [100daysofcode](https://twitter.com/anant_luthra_/status/1531500725238472705)
+- 🔭 Currently focussing on 12th boards.
+- 👍 Completed [100daysofcode](https://twitter.com/anant_luthra_/status/1531500725238472705)
 - 🌱 I’m currently learning C
 - 😄 Loves to talk with people.
 - 📫 Connect with me on [Twitter](https://twitter.com/anant_luthra_)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm just 17.
-- 🌱 Looking for opportunities.
-- ⚡ Interests: Like to play football, programming, Like doing yoga.
+- ⚡ Interests: Like to play football, programming, Like doing yoga
 
 #### Some of my projects 👇
 - [Health care notifier system](https://github.com/AnantLuthra/Health-Care-Notifier-System)🏃
@@ -35,3 +34,6 @@ A 17 years old boy from India, a tech enthusiast who loves to code in python, an
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anantluthra&theme=chartreuse-dark)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=anantluthra)
+
+
+# 🙏।। हरे कृष्णा ।।🙏
