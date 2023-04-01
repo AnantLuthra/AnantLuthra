@@ -2,13 +2,14 @@
 
 A 18 years old boy from India, a tech enthusiast who loves to code in python, and learning new things daily & explore new technologies and build amazing projects.
 
-- 🔭 Currently focussing on 12th boards.
+- 🔭 Currently focussing on cs50x course.
 - 👍 Completed [100daysofcode](https://twitter.com/anant_luthra_/status/1531500725238472705)
 - 🌱 I’m currently learning C
 - 😄 Loves to talk with people.
 - 📫 Connect with me on [Twitter](https://twitter.com/anant_luthra_)
 - 😄 Pronouns: He/Him
-- ⚡ Interests: Like to play football, programming, Like doing yoga
+- ⚡ Interests: Like to play football, programming, yoga, calisthenics.
+- 🙏 Practicing spirituality.
 
 #### Some of my projects 👇
 - [Health care notifier system](https://github.com/AnantLuthra/Health-Care-Notifier-System)🏃
