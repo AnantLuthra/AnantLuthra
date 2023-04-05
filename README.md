@@ -9,7 +9,7 @@ A 18 years old boy from India, a tech enthusiast who loves to code in python, an
 - 📫 Connect with me on [Twitter](https://twitter.com/anant_luthra_)
 - 😄 Pronouns: He/Him
 - ⚡ Interests: Like to play football, programming, yoga, calisthenics.
-- 🙏 Practicing spirituality.
+- 📿 Practicing spirituality.
 
 #### Some of my projects 👇
 - [Health care notifier system](https://github.com/AnantLuthra/Health-Care-Notifier-System)🏃
