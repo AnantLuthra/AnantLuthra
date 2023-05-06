@@ -4,7 +4,7 @@ A 18 years old boy from India, a tech enthusiast who loves to code in python, an
 
 - 🔭 Currently focussing on cs50x course.
 - 👍 Completed [100daysofcode](https://twitter.com/anant_luthra_/status/1531500725238472705), and [30daysofcode](https://github.com/AnantLuthra/30daysofcode) once.
-- 🌱 I’m currently learning web dev.
+- 🌱 I’m currently learning [web dev](https://github.com/AnantLuthra/WebDev-Notes).
 - 😄 Loves to talk with people.
 - 📫 Connect with me on [Twitter](https://twitter.com/anant_luthra_)
 - 😄 Pronouns: He/Him
@@ -21,9 +21,10 @@ A 18 years old boy from India, a tech enthusiast who loves to code in python, an
 
 #### My learning progress repositories 📈
 
+- [Web Dev](https://github.com/AnantLuthra/WebDev-Notes) (with my self made notes)
+- [Learning Tkinter](https://github.com/AnantLuthra/Tkinter-learning)
 - [100daysofcode](https://github.com/AnantLuthra/100daysofcode)
 - [30daysofcode](https://github.com/AnantLuthra/30daysofcode)
-- [Learning Tkinter](https://github.com/AnantLuthra/Tkinter-learning)
 - I also have python learning repository but that's not showable here 😅 it's too messed up, shitty stuff inside, 😂
 
 ---
