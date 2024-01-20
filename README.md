@@ -1,4 +1,7 @@
+<div style="text-align:center">
+
 # Hi there 👋 I'm Anant Luthra
+</div>
 
 I'm from India, a tech enthusiast who loves to code in python, and learning new things daily & explore new technologies and build amazing projects. Currently pursuing Bachelors of Science in Data Science & Applications from **Indian Institute of Technology, Madras.**
 
@@ -27,6 +30,8 @@ I'm from India, a tech enthusiast who loves to code in python, and learning new 
 - [30daysofcode](https://github.com/AnantLuthra/30daysofcode)
 - I also have python learning repository but that's not showable here 😅 it's too messed up, shitty stuff inside, 😂
 
+<div style="text-align:center">
+
 ---
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=anantluthra&layout=compact&theme=chartreuse-dark)
 
@@ -39,3 +44,4 @@ I'm from India, a tech enthusiast who loves to code in python, and learning new 
 
 
 # ।। हरे कृष्णा ।।
+</div>
