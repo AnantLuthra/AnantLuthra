@@ -16,11 +16,12 @@ I'm from India, a tech enthusiast who loves to code in python, and learning new 
 #### Some of my projects 👇
 - [Health care notifier system](https://github.com/AnantLuthra/Health-Care-Notifier-System)🏃
 - [CLI Music player made in python](https://github.com/AnantLuthra/cli-music-player)🎶
+- [Birthday Notifier made in python](https://github.com/AnantLuthra/birthay-notifier)🔔
 - [Voice Wikipedia Search GUI made in python](https://github.com/AnantLuthra/wikipedia_searcher)🔊
 - [Music player desktop software](https://github.com/AnantLuthra/Tkinter-projects/tree/master/Music%20player)🎶
-- [Markdown to PDF Converter](https://github.com/AnantLuthra/Md-to-pdf) (In progress)
 - [Desktop AI system](https://github.com/AnantLuthra/A.I.-Assistant)👨‍💻
 - [Calculator GUI made with python](https://github.com/AnantLuthra/Tkinter-projects/tree/master/Calculator%20GUI)🧭
+- [Markdown to PDF Converter](https://github.com/AnantLuthra/Md-to-pdf) (In progress)
 
 #### My learning progress repositories 📈
 
