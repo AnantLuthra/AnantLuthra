@@ -7,10 +7,9 @@ I'm from India, a tech enthusiast who loves to code in python, and learning new 
 
 - 🔭 Alongside focussing on cs50x course.
 - 👍 Completed [100daysofcode](https://twitter.com/anant_luthra_/status/1531500725238472705), and [30daysofcode](https://github.com/AnantLuthra/30daysofcode) once.
-- 🌱 I’m currently learning [web dev](https://github.com/AnantLuthra/WebDev-Notes), while doing #100daysofcode on [twitter](https://twitter.com/anant_luthra_/status/1741750511681081492)
+- 🌱 I’m currently learning javascript in [web dev](https://github.com/AnantLuthra/WebDev-Notes), while doing #100daysofcode on [twitter](https://twitter.com/anant_luthra_/status/1741750511681081492)
 - 😄 Loves to talk with people.
 - 📫 Connect with me on [Twitter](https://twitter.com/anant_luthra_)
-- 😄 Pronouns: He/Him
 - ⚡ Interests: Like to play football, programming, yoga, calisthenics, explore & live vedic culture.
 
 #### Some of my projects 👇
