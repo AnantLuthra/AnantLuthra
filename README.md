@@ -36,8 +36,6 @@ I'm from India, a tech enthusiast who loves to code in python, and learning new 
 
 ---
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=anantluthra&layout=compact&theme=chartreuse-dark)
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=anantluthra&theme=chartreuse-dark&show_icons=true&count_private=true)
 ---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anantluthra&theme=chartreuse-dark)](https://git.io/streak-stats)
