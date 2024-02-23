@@ -13,15 +13,15 @@ I'm from India, a tech enthusiast who loves to code in python, and learning new 
 - ⚡ Interests: Like to play football, programming, yoga, calisthenics, explore & live vedic culture.
 
 #### Some of my projects 👇
-- [Health care notifier system](https://github.com/AnantLuthra/Health-Care-Notifier-System)🏃 - It remindes us to drink water, physical & eye exercise by sending desktop notifications. Made in python.
 - [CLI Music player made in python](https://github.com/AnantLuthra/cli-music-player)🎶 - It is a CLI tool for playing music from our system our online by searching, in terminal and using windows music player.
 - [Birthday Notifier made in python](https://github.com/AnantLuthra/birthay-notifier)🔔 - It gives notifications of birthdays for today and the next two days in text on WhatsApp, generated from an Excel sheet.
+- [ShopifyX website](https://github.com/AnantLuthra/shopifyX) - It is a dummy website i made it for practicing my css, here is website link [🔗](https://anantluthra.github.io/shopifyX/).
 - [Voice Wikipedia Search GUI made in python](https://github.com/AnantLuthra/wikipedia_searcher)🔊 - In this we can search on wikipedia through voice, littlebit like google.
 - [Laptop battery care tool](https://github.com/AnantLuthra/Laptop-battery-Care-notifier/)🔔 - Made in python, this tool notifies us if our laptop's battery level goes >= 85% or below 35%, so that we can plug in or out for having a better battery life.
-- [Music player desktop software](https://github.com/AnantLuthra/Tkinter-projects/tree/master/Music%20player)🎶 - It is a GUI desktop software made in python through tkinter library, it plays music from selected directories, i tried to make it look like windows 10 music player, although it just opens the music file and plays in windows music player.
-- [Desktop AI system](https://github.com/AnantLuthra/A.I.-Assistant)👨‍💻 - It is desktop ai which does many tasks, like - updated repo on github, scrolling, switching windows, opening apps, searching wikipedia, telling news, playing games etc.. Made in python.
 - [Calculator GUI made with python](https://github.com/AnantLuthra/Tkinter-projects/tree/master/Calculator%20GUI)🧭 - It is a calculator made through tkinter library in python, it has a pretty decent look.
-- [ShopifyX website](https://github.com/AnantLuthra/shopifyX) - It is a dummy website i made it for practicing my css, here is website link [🔗](https://anantluthra.github.io/shopifyX/).
+- [Music player desktop software](https://github.com/AnantLuthra/Tkinter-projects/tree/master/Music%20player)🎶 - It is a GUI desktop software made in python through tkinter library, it plays music from selected directories, i tried to make it look like windows 10 music player, although it just opens the music file and plays in windows music player.
+- [Health care notifier system](https://github.com/AnantLuthra/Health-Care-Notifier-System)🏃 - It remindes us to drink water, physical & eye exercise by sending desktop notifications. Made in python.
+- [Desktop AI system](https://github.com/AnantLuthra/A.I.-Assistant)👨‍💻 - It is desktop ai which does many tasks, like - updated repo on github, scrolling, switching windows, opening apps, searching wikipedia, telling news, playing games etc.. Made in python.
 - [Markdown to PDF Converter](https://github.com/AnantLuthra/Md-to-pdf) (In progress) - It is a tool to create PDF from .md files.
 
 #### My learning progress repositories 📈
