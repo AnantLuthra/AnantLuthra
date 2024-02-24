@@ -30,7 +30,7 @@ I'm from India, a tech enthusiast who loves to code in python, and learning new 
 - [Learning Tkinter](https://github.com/AnantLuthra/Tkinter-learning)
 - [100daysofcode](https://github.com/AnantLuthra/100daysofcode)
 - [30daysofcode](https://github.com/AnantLuthra/30daysofcode)
-- I also have python learning repository but that's not showable here 😅 it's too messed up, shitty stuff inside, 😂
+- I also have python learning repository but that's not showable here 😅 it's too messed up, shitty stuff inside, 😂.
 
 <div style="text-align:center">
 
