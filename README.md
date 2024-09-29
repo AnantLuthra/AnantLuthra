@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there 👋 I'm Anant Luthra</h1>
-  <p>I'm from India, a tech enthusiast who loves to code in python, and learning new things daily & explore new technologies and build amazing projects, I like creating mini projects that solve my problems. Pursuing the second year of a Bachelor's degree in Data Science & Applications 👨‍🎓 at the <b>Indian Institute of Technology, Madras<b> 🏛️</p>
+  <p>I'm from India, a tech enthusiast who loves to code in python, and learning new things daily & explore new technologies and build amazing projects, I like creating mini projects that solve my problems. Pursuing the second year of a Bachelor's degree in Data Science & Applications 👨‍🎓 at the <b>Indian Institute of Technology, Madras</b> 🏛️</p>
 </div>
 
 - 🔭 Alongside focussing on cs50x course.
