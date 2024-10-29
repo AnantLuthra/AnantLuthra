@@ -7,7 +7,7 @@
 - 👍 Completed [100daysofcode](https://twitter.com/anant_luthra_/status/1531500725238472705), and [30daysofcode](https://github.com/AnantLuthra/30daysofcode) once.
 - 🌱 I’m currently learning javascript in [web dev](https://github.com/AnantLuthra/WebDev-Notes).
 - 😄 Loves to talk with people.
-- 📫 Connect with me on [Twitter](https://twitter.com/anant_luthra_)
+- 📫 Connect with me on [Twitter](https://twitter.com/anant_luthra_) or mail me on `mail.anantluthra@gmail.com`
 - ⚡ Interests: Like to play football, programming, yoga, calisthenics, explore & live vedic culture.
 
 ## My Projects 👇
