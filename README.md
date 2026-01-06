@@ -1,14 +1,13 @@
 <div align="center">
   <h1>Hi there 👋 I'm Anant Luthra</h1>
-  <p>I'm from India, a tech enthusiast who loves to code in python, and learning new things daily & explore new technologies and build amazing projects, I like creating mini projects that solve my problems. Pursuing the second year of a Bachelor's degree in Data Science & Applications 👨‍🎓 at the <b>Indian Institute of Technology, Madras</b> 🏛️</p>
+  <p>I'm from India. A Consistent and Detail Oriented - Web developer with experience working on full-stack applications using Vue, Flask, and SQLite. Able to build user workflows, backend APIs, and multi-role features, and building skills in AWS Cloud. I create projects that solve problems. Pursuing the third year of a Bachelor's degree in Data Science & Applications 👨‍🎓 at the <b>Indian Institute of Technology, Madras</b> 🏛️</p>
 </div>
 
-- 🔭 Alongside focussing on cs50x course.
+- 🔭 Alongside learning from AWS courses.
 - 👍 Completed [100daysofcode](https://twitter.com/anant_luthra_/status/1531500725238472705), and [30daysofcode](https://github.com/AnantLuthra/30daysofcode) once.
-- 🌱 I’m currently learning javascript in [web dev](https://github.com/AnantLuthra/WebDev-Notes).
+- 🌱 I'm learning full stack development.
 - 😄 Loves to talk with people.
 - 📫 Connect with me on [Twitter](https://twitter.com/anant_luthra_) or mail me on `mail.anantluthra@gmail.com`
-- ⚡ Interests: Like to play football, programming, yoga, calisthenics, explore & live vedic culture.
 
 ## My Projects 👇
 
@@ -16,11 +15,15 @@
     <summary>Web Dev Projects</summary>
     <p>
     <ul>
+        <li><a href="https://github.com/AnantLuthra/quizmaster-webapp">QuizMaster WebApp</a> - A full-stack educational quiz platform built with Flask and Vue.js, enabling administrators to create scheduled quizzes and students to take tests, view results, and receive automated monthly performance reports. <b>Demo Video</b> <a href="https://youtu.be/3vdpiZ3PBh4">🔗</a>
+        </li>
+        <li><a href="https://github.com/AnantLuthra/household-services">Household Services</a> - Household Services is a full-stack service management platform built with Flask and Jinja2, enabling admins to manage services and professionals, customers to book services, and professionals to accept requests using SQLite. <b>Live link</b> <a href="https://household-services-7a0n.onrender.com">🔗</a>
+        </li>
         <li><a href="https://github.com/AnantLuthra/shopifyX">ShopifyX website</a> - It is a dummy website i made it
-            for practicing my css, here is website link <a href="https://anantluthra.github.io/shopifyX/">🔗</a>
+            for practicing my css, <b>Live link</b> <a href="https://anantluthra.github.io/shopifyX/">🔗</a>
         </li>
         <li><a href="https://github.com/AnantLuthra/Web-Clock">Web Clock</a> - A website having an analog clock,
-            made with HTML, CSS, JS.<a href="https://anantluthra.github.io/Web-Clock/">🔗</a></li>
+            made with HTML, CSS, JS. <b>Live Link</b> <a href="https://anantluthra.github.io/Web-Clock/">🔗</a></li>
     </ul>
     </p>
 </details>
@@ -48,8 +51,6 @@
         </li>
         <li><a href="https://github.com/AnantLuthra/A.I.-Assistant">Desktop AI system</a>👨‍💻 - It is desktop ai which does many tasks, like - updated repo on github, scrolling, switching windows, opening apps, searching wikipedia, telling news, playing games etc.. Made in python.
         </li>
-        <li><a href="https://github.com/AnantLuthra/Md-to-pdf">Markdown to PDF Converter</a>(In progress) - It is a tool to create PDF from .md files.
-        </li>
     </ul>
     </p>
 </details>
@@ -67,7 +68,6 @@
     </li>
     <li><a href="https://github.com/AnantLuthra/30daysofcode">30DaysOfCode</a> (In this i learnt remaining C, python, SQL)
     </li>
-    <li>I also have python learning repository but that's not showable here 😅 it's too messed up, shitty stuff inside 😂</li>
 </ul>
 
 ---
