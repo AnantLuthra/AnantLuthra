@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there 👋 I'm Anant Luthra</h1>
-  <p>A Consistent and Detail Oriented - Web developer with experience working on full-stack applications using Vue, Flask, and SQLite. Able to build user workflows, backend APIs, and multi-role features, and building skills in AWS Cloud. I create projects that solve problems. Pursuing the third year of a Bachelor's degree in Data Science & Applications 👨‍🎓 at the <b>Indian Institute of Technology, Madras</b> 🏛️</p>
+  <p>A Consistent and Detail Oriented - Web developer with experience working on full-stack applications using Vue, Flask, and SQLite. Able to build user workflows, backend APIs, and multi-role features, and building skills in AWS Cloud. I create projects that solve problems. Currently in 3rd year of a Bachelor's degree in Data Science & Applications 👨‍🎓 at the <b>IIT, Madras</b> 🏛️</p>
 </div>
 
 - 🔭 Alongside learning from AWS courses.
