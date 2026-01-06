@@ -17,6 +17,8 @@
     <ul>
         <li><a href="https://github.com/AnantLuthra/quizmaster-webapp">QuizMaster WebApp</a> - A full-stack educational quiz platform built with Flask and Vue.js, enabling administrators to create scheduled quizzes and students to take tests, view results, and receive automated monthly performance reports. <b>Demo Video</b> <a href="https://youtu.be/3vdpiZ3PBh4">🔗</a>
         </li>
+        <li>Vedic Numerology Calculator</a> - Currently developing a full-stack web application that generates comprehensive Vedic numerology charts, automating complex calculations including Mahadasha, Antardasha, and Pratyantara Dasha periods, planetary yogas (51 combinations), and numerological strength analysis. Built with Vue.js frontend and Flask/Python backend, featuring user authentication, role-based access (admin/user), and real-time chart generation that reduces manual calculation time from hours to seconds for numerology practitioners. This much is done and I'm working on new features in this app.
+        </li>
         <li><a href="https://github.com/AnantLuthra/household-services">Household Services</a> - Household Services is a full-stack service management platform built with Flask and Jinja2, enabling admins to manage services and professionals, customers to book services, and professionals to accept requests using SQLite. <b>Live link</b> <a href="https://household-services-7a0n.onrender.com">🔗</a>
         </li>
         <li><a href="https://github.com/AnantLuthra/shopifyX">ShopifyX website</a> - It is a dummy website i made it
