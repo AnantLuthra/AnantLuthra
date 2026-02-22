@@ -60,6 +60,8 @@
 ## My learning progress repositories 📈
 
 <ul>
+    <li><a href="https://github.com/AnantLuthra/Devops-Notes">Devops Notes</a>
+    </li>
     <li><a href="https://github.com/AnantLuthra/WebDev-Notes">Web Dev</a> (with my self made notes)
     </li>
     <li><a href="https://github.com/AnantLuthra/Bash-commands">Bash Commands</a> (Proper Notes)
