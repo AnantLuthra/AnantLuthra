@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there 👋 I'm Anant Luthra</h1>
-  <p>A Consistent and Detail Oriented - Web developer with experience working on full-stack applications using Vue, Flask, and SQLite. Able to build user workflows, backend APIs, and multi-role features, and building skills in AWS Cloud. I create projects that solve problems. Currently in 3rd year of a Bachelor's degree in Data Science & Applications 👨‍🎓 at the <b>IIT, Madras</b> 🏛️</p>
+  <p>A Consistent and Detail Oriented - <b>Full Stack Developer, AWS Certified Cloud Practitioner</b> <a href="https://www.credly.com/badges/0d9ab44e-c8ad-449d-9f8b-0868e33b0a57/public_url">🔗</a>. Experience working on full-stack applications using Vue, Flask, and SQLite. Able to build user workflows, backend APIs, and multi-role features. I create projects that solve problems. Currently in 3rd year of a Bachelor's degree in Data Science & Applications 👨‍🎓 at the <b>IIT, Madras</b> 🏛️</p>
 </div>
 
 - 🔭 Alongside learning from AWS courses.
