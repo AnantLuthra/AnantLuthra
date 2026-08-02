@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there 👋 I'm Anant Luthra</h1>
-  <p>A Consistent and Detail Oriented - <b>Full Stack Developer, AWS Certified Cloud Practitioner</b> <a href="https://www.credly.com/badges/0d9ab44e-c8ad-449d-9f8b-0868e33b0a57/public_url">🔗</a>. Experience working on full-stack applications using Vue, Flask, and SQLite. Able to build user workflows, backend APIs, and multi-role features. I create projects that solve problems. Currently in 3rd year of a Bachelor's degree in Data Science & Applications 👨‍🎓 at the <b>IIT, Madras</b> 🏛️</p>
+  <p>A Consistent and Detail Oriented - <b>Full Stack Developer, 4x AWS Certified</b></a> <a href="https://www.credly.com/users/anant-luthra.630eeff5">🔗</a>. Experience working on full-stack applications using Vue, Flask, and SQLite. Able to build user workflows, backend APIs, and multi-role features. I create projects that solve problems. Currently in 3rd year of a Bachelor's degree in Data Science & Applications 👨‍🎓 at the <b>IIT, Madras</b> 🏛️</p>
 </div>
 
 - 🔭 Alongside learning from AWS courses.
@@ -9,8 +9,29 @@
 - 😄 Loves to talk with people.
 - 📫 Connect with me on [Twitter](https://twitter.com/anant_luthra_) or mail me on `mail.anantluthra@gmail.com`
 
-## My Projects 👇
+## Projects & Certifications
 
+<details>
+    <summary>AWS Certifications</summary>
+    <p>
+    <ul>
+      <li><b>Credly Profile</b></a> <a href="https://www.credly.com/users/anant-luthra.630eeff5">🔗</a> - View all my AWS certifications and verified digital badges in one place.
+      </li>
+      <li>
+        <b>Solutions Architect – Associate</b> - Validates the ability to design secure, resilient, high-performing, and cost-optimized architectures on AWS using well-architected cloud design principles.
+    </li>
+    <li>
+        <b>Developer – Associate</b> - Demonstrates proficiency in developing, deploying, debugging, and maintaining cloud-native applications using AWS services, SDKs, APIs, and CI/CD practices.
+    </li>
+    <li>
+        <b>Cloud Practitioner</b> - Demonstrates foundational knowledge of AWS Cloud concepts, core services, security, pricing, architecture principles, and best practices for building solutions on AWS.
+    </li>
+    <li>
+        <b>AI Practitioner</b> - Validates foundational knowledge of Artificial Intelligence, Machine Learning, and Generative AI concepts, along with AWS AI/ML services and responsible AI practices.
+    </li>
+</ul>
+    </p>
+</details>
 <details>
     <summary>Web Dev Projects</summary>
     <p>
