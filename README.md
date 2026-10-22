@@ -1,13 +1,15 @@
 <div align="center">
   <h1>Hi there 👋 I'm Anant Luthra</h1>
-  <p>A Consistent and Detail Oriented - <b>Full Stack Developer, 4x AWS Certified</b></a> <a href="https://www.credly.com/users/anant-luthra.630eeff5">🔗</a>. Experience working on full-stack applications using Vue, Flask, and SQLite. Able to build user workflows, backend APIs, and multi-role features. I create projects that solve problems. Currently in 3rd year of a Bachelor's degree in Data Science & Applications 👨‍🎓 at the <b>IIT, Madras</b> 🏛️</p>
+  <p>DevOps & Cloud Engineer with a strong software engineering foundation | <b>4x AWS Certified</b> <a href="https://www.credly.com/users/anant-luthra.630eeff5">🔗</a><br>
+  Specializing in managed Kubernetes (EKS, LKE), automated CI/CD pipelines (Jenkins, ECR, Docker), and cloud infrastructure provisioning.<br>
+  Currently pursuing a Bachelor's in Data Science & Applications 👨‍🎓 at <b>IIT Madras</b> 🏛️</p>
 </div>
 
-- 🔭 Alongside learning from AWS courses.
-- 👍 Completed [100daysofcode](https://twitter.com/anant_luthra_/status/1531500725238472705), and [30daysofcode](https://github.com/AnantLuthra/30daysofcode) once.
-- 🌱 I'm learning full stack development.
-- 😄 Loves to talk with people.
-- 📫 Connect with me on [Twitter](https://twitter.com/anant_luthra_) or mail me on `mail.anantluthra@gmail.com`
+- 🔭 **Current Focus:** Architecting Kubernetes workloads, automating declarative CI/CD pipelines, and deploying cloud-native infrastructure on AWS.
+- ⚙️ **Core Stack:** AWS (EKS, Fargate, ECR, CloudFormation), Kubernetes, Docker, Jenkins, Helm, Linux, Java/Maven, Python.
+- 👍 Completed [100daysofcode](https://twitter.com/anant_luthra_/status/1531500725238472705) and [30daysofcode](https://github.com/AnantLuthra/30daysofcode).
+- 🌱 **Exploring:** Infrastructure as Code (IaC), GitOps, and scalable microservices architectures.
+- 📫 **Reach me:** Connect on [LinkedIn](https://linkedin.com/in/Anantluthra), [Twitter/X](https://twitter.com/anant_luthra_), or email me at `mail.anantluthra@gmail.com`.
 
 ## Projects & Certifications
 
